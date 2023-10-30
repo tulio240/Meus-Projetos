@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\giuli\source\repos\T5_EDA(funcionando)\T5_EDA(funcionando)\Source.c(177,9): warning C4476: 'printf' : unknown type field character 'V' in format specifier
+C:\Users\giuli\source\repos\T5_EDA(funcionando)\T5_EDA(funcionando)\Source.c(223,32): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *[13]'
+C:\Users\giuli\source\repos\T5_EDA(funcionando)\T5_EDA(funcionando)\Source.c(223,32): warning C4024: 'percorreGrafo': different types for formal and actual parameter 2
+  T5_EDA(funcionando).vcxproj -> C:\Users\giuli\source\repos\T5_EDA(funcionando)\x64\Debug\T5_EDA(funcionando).exe
