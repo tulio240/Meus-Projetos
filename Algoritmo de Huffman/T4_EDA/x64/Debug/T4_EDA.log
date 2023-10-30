@@ -1,0 +1,15 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  Huffman.c
+C:\Users\giuli\source\repos\T4_EDA\T4_EDA\Huffman.c(130,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\giuli\source\repos\T4_EDA\T4_EDA\Huffman.c(143,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\giuli\source\repos\T4_EDA\T4_EDA\Huffman.c(144,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\giuli\source\repos\T4_EDA\T4_EDA\Huffman.c(149,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\giuli\source\repos\T4_EDA\T4_EDA\Huffman.c(150,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\giuli\source\repos\T4_EDA\T4_EDA\Huffman.c(165,7): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Source.c
+C:\Users\giuli\source\repos\T4_EDA\T4_EDA\Source.c(4,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\giuli\source\repos\T4_EDA\T4_EDA\Source.c(25,7): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\giuli\source\repos\T4_EDA\T4_EDA\Source.c(71,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\giuli\source\repos\T4_EDA\T4_EDA\Source.c(79,24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  T4_EDA.vcxproj -> C:\Users\giuli\source\repos\T4_EDA\x64\Debug\T4_EDA.exe
